@@ -1,17 +1,24 @@
-# mindbridge_container_demo
+# MindBridge Container Demo
 
-A new Flutter project.
+This project demonstrates how the Flutter Container widget can be used in a simple mental-health check-in screen.
 
-## Getting Started
+## Widget Used
 
-This project is a starting point for a Flutter application.
+The main widget used in this project is the Container widget.
 
-A few resources to get you started if this is your first Flutter project:
+## Three Container Properties
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- width - controls how wide the Container is.
+- height - controls how tall the Container is.
+- color - changes the background color of the Container.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Make sure Flutter is installed.
+2. Start an Android emulator.
+3. Run:
+
+```bash
+flutter pub get
+flutter run
+<img width="348" height="701" alt="Screenshot 2026-10-20 at 14 37 50" src="https://github.com/user-attachments/assets/336fd832-0dd0-4509-8ae3-551231fb88b5" />
